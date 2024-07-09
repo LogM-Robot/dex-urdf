@@ -4,7 +4,7 @@
   <joint name="base_joint" type="fixed">
     <parent link="base"/>
     <child link="palm_lower"/>
-    <origin xyz="0.058 0.038 -0.048" rpy="0 0 0"/>
+    <origin xyz="0.058 0.034 -0.048" rpy="0 0 0"/>
   </joint>
 
   <link name="palm_lower">
